@@ -13,8 +13,6 @@ dotenv.config();
 connectDB();
 
 
-// Line added
-
 // rest object
 const app = express();
 
